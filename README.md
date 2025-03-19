@@ -13,7 +13,8 @@ Beyond textual reasoning, we have also unleashed this capability in medical Visi
 
 # Preview Results
 
-![image](https://github.com/user-attachments/assets/70af2b9f-3285-4e00-be62-dc8c4958809b)
+![Uploading image.png…]()
+
 
 
 # TODO
